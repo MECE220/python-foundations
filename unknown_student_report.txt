@@ -1,0 +1,10 @@
+=============================================
+  STUDENT REPORT — UNKNOWN STUDENT
+=============================================
+  Mathematics         80.0   B   Pass
+  Physics             85.0   B   Pass
+  Python              80.0   B   Pass
+  Data Structures     80.0   B   Pass
+=============================================
+  Average Score  : 81.2 (B)
+=============================================
