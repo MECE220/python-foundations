@@ -16,7 +16,7 @@ complete beginner to job-ready Software, Data, and AI Engineer.
 |-----|-------|--------|
 | Day 1 | Environment Setup (WSL2, Python, Git, VS Code) | ✅ Done |
 | Day 2 | Variables, Data Types, Lists, Dictionaries | ✅ Done |
-| Day 3 | Conditionals, Loops, Functions | ✅ In Done |
+| Day 3 | Conditionals, Loops, Functions | ✅ Done |
 | Day 4 | Error Handling, File I/O | ✅ Done |
 
 ---
