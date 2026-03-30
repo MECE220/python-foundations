@@ -17,7 +17,7 @@ complete beginner to job-ready Software, Data, and AI Engineer.
 | Day 1 | Environment Setup (WSL2, Python, Git, VS Code) | ✅ Done |
 | Day 2 | Variables, Data Types, Lists, Dictionaries | ✅ Done |
 | Day 3 | Conditionals, Loops, Functions | ✅ In Done |
-| Day 4 | Error Handling, File I/O | ⏳ Upcoming |
+| Day 4 | Error Handling, File I/O | ✅ Done |
 
 ---
 
@@ -32,6 +32,11 @@ lists, and functions.
 Analyzes a set of subject scores and produces a formatted grade report
 with averages, highest/lowest scores, and pass/fail tracking.  
 **Concepts used:** conditionals, loops, functions, dictionaries
+
+### Score Manager (Day 4)
+An interactive student score manager with full input validation,
+error handling, and automatic report generation saved to a .txt file.
+**Concepts used:** try/except/finally, file I/O, while loops, functions
 
 ---
 
