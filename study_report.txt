@@ -1,0 +1,10 @@
+STUDY REPORT
+=============
+Name    : Juan
+Day     : 4
+Topic   : Error Handling and File I/O
+Status  : Complete
+
+- Completed file I/O section
+- Learned try/except/finally
+- Built error-safe functions
