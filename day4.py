@@ -62,7 +62,7 @@ def write_report(filename, content):
 
 report_content = """STUDY REPORT
 =============
-Name    : Juan
+Name    : Reiko
 Day     : 4
 Topic   : Error Handling and File I/O
 Status  : Complete
