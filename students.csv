@@ -1,0 +1,6 @@
+name,age,score,passed,city,grade
+Reiko,25,90,True,Manila,B
+Maria,23,97,True,Cebu,A
+Pedro,22,74,True,Manila,C
+Juan,24,67,False,Davao,D
+Ana,26,93,True,Manila,A
