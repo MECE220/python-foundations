@@ -135,3 +135,15 @@ print("Columns:", df_loaded.columns.tolist())
 print("Missing values:\n", df_loaded.isnull().sum())
 print("Sample:\n", df_loaded.head())
 print("Stats:\n", df_loaded.describe())
+
+# 1. Show only students from Davao
+print(df[df["city"] == "Davao"])
+
+# 2. Show students with score between 70 and 90
+print(df[(df["score"] >= 70) & (df["score"] <= 90)])
+
+# 3. Show only the name and score of students who failed
+print(df[df["passed"] == False][["name", "score"]])
+
+# 4. Show students NOT from Manila
+print(df[df["city"] != "Manila"])
